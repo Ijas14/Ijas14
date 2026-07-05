@@ -20,4 +20,4 @@ I build systems across domains — ML architectures, inference infrastructure, s
 
 ## Contact
 
-- Email
+- [Email](mailto:ijasdatai12@gmail.com)
