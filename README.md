@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Ijas
 
-<!--
-**Ijas14/Ijas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I build systems across domains — ML architectures, inference infrastructure, security tooling, and measurement instruments. The common thread: contract-first design, cold/hot separation, and shipping before polishing.
 Current focus
 
@@ -22,3 +20,7 @@ How I work
 Contact
 
     Email
+
+<!--
+**Ijas14/Ijas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
