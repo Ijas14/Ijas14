@@ -1,3 +1,5 @@
+## Hi there 👋, I'm Ijas
+
 I build systems across domains — ML architectures, inference infrastructure, security tooling, and measurement instruments. The common thread: contract-first design, cold/hot separation, and shipping before polishing.
 
 ## Current focus
