@@ -5,12 +5,12 @@ I build systems across domains — ML architectures, inference infrastructure, s
 ## Current focus
 
 - 🔧 **ASH-KV (Upcoming)** — Tiered KV cache management for LLM inference. 8-number policy surface, fault-tolerant migration engine, hardware-agnostic codec layer.
-- 📊 **inferbench** — Benchmark that finds where LLM serving systems break under concurrent load. The cliff finder is the signature feature.
+- 📊 **[inferbench](https://github.com/Ijas14/InferBench)** — Benchmark that finds where LLM serving systems break under concurrent load. The cliff finder is the signature feature.
 
 ## Other work
 
-- 🧬 **Fluidic Equilibrium** — Hybrid SSM architecture (Liquid-S4 + CfC + DEQ) implemented from scratch.
-- 🛡️ **CKDG** — Cyber-physical attack detection. Physics decides, AI explains. Local LLM, air-gapped.
+- 🧬 **[Fluidic Equilibrium](https://github.com/Ijas14/fluidic-equilibrium-intelligence)** — Hybrid SSM architecture (Liquid-S4 + CfC + DEQ) implemented from scratch.
+- 🛡️ **[CKDG](https://github.com/Ijas14/cyber-kinetic-defense-grid)** — Cyber-physical attack detection. Physics decides, AI explains. Local LLM, air-gapped.
 
 ## How I work
 
