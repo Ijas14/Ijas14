@@ -11,6 +11,7 @@ I build systems across domains — ML architectures, inference infrastructure, s
 
 - 🧬 **[Fluidic Equilibrium](https://github.com/Ijas14/fluidic-equilibrium-intelligence)** — Hybrid SSM architecture (Liquid-S4 + CfC + DEQ) implemented from scratch.
 - 🛡️ **[CKDG](https://github.com/Ijas14/cyber-kinetic-defense-grid)** — Cyber-physical attack detection. Physics decides, AI explains. Local LLM, air-gapped.
+- 🩺 **[rocm-doctor](https://github.com/Ijas14/rocm-doctor)** — A zero-dependency diagnostic tool for AMD ROCm installations. Checks hardware, driver, runtime, and frameworks. Survives broken systems.
 
 ## How I work
 
