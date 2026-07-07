@@ -15,9 +15,10 @@ I build systems across domains — ML architectures, inference infrastructure, s
 
 ## How I work
 
-- I ship fast, then iterate. MVP before boredom is a strategy, not a flaw.
-- I think in systems: contracts, boundaries, feedback loops, failure modes.
-- I direct AI to write code; I design the architecture it builds.
+ - I ship fast, then iterate. MVP before boredom is a strategy, not a flaw.
+ - I think in systems: contracts, boundaries, feedback loops, failure modes.
+ - I direct AI to write code; I design the architecture it builds.
+ - I can prototype anything from a CLI tool to a hybrid SSM architecture in days.
 
 ## Contact
 
