@@ -4,7 +4,7 @@ I build systems across domains — ML architectures, inference infrastructure, s
 
 ## Current focus
 
-- 🔧 **[ASH-KV](https://github.com/Ijas14/ASH-KV)** — Tiered KV cache management for LLM inference. 8-number policy surface, fault-tolerant migration engine, hardware-agnostic codec layer.
+- 🔧 **[ASH-KV](https://github.com/Ijas14/ASH-KV) ( Work in Progress )** — Tiered KV cache management for LLM inference. 8-number policy surface, fault-tolerant migration engine, hardware-agnostic codec layer.
 - 📊 **[inferbench](https://github.com/Ijas14/InferBench)** — Benchmark that finds where LLM serving systems break under concurrent load. The cliff finder is the signature feature.
 
 ## Other work
